@@ -1,1 +1,1 @@
-Rutinas de procesamiento LiDAR móvil para la obtención de los productos necesarios en la medición de la regularidad en pavimentos.
+Implementación de rutinas de procesamiento de datos LiDAR móvil orientadas a la generación de productos clave para la evaluación de la regularidad superficial de pavimentos, incluyendo índices como el IRI y perfiles longitudinales
